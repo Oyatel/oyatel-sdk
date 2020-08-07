@@ -10,6 +10,7 @@
     "oyatel streaming api",
     "cometd"
   ],
+  "main": "build/src/main.js",
   "files": [
     "build/*"
   ],
